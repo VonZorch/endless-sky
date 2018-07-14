@@ -830,7 +830,9 @@ ship "Gunboat" "Gunboat (Mark II)"
 		"A255 Atomic Steering"
 		"Hyperdrive"
 
-
+ship "Gunboat" "Gunboat XC"
+	outfits
+		"Bunk Room"
 
 ship "Frigate" "Frigate (Mark II)"
 	outfits
